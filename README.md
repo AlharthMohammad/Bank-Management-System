@@ -1,4 +1,3 @@
-يعني هيك :
 
 # Simple Bank System (C++)
 
