@@ -64,7 +64,7 @@ To access the system, use the following credentials:
 
 
 
----
+
 
 ## How to Run
 1. Open the project in Visual Studio or use g++ compiler  
